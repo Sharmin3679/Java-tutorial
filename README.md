@@ -18,9 +18,9 @@ Java-tutorial/
 ├── myreport.pdf
 ├── week1/
 ├── week2/
-├── week3&4/
+├── week3-4/
 ├── week5/
 ├── week6/
 ├── week7/
-├── week8&9/
+├── week8-9/
 └── week10/
