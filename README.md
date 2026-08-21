@@ -2,7 +2,7 @@
 
 *Student Name:* Sharmin  
 *Student ID:* 202510010071  
-*Course:* BIT1123 Object Oriented Programming (Java)  
+*Course:* DIT1123 Object Oriented Programming (Java)  
 
 ---
 
