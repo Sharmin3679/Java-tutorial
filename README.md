@@ -22,5 +22,5 @@ Java-tutorial/
 ├── week5/
 ├── week6/
 ├── week7/
-├── week8-9/
+├── week8&9/
 └── week10/
