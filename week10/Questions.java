@@ -5,12 +5,12 @@ public class Questions {
     private String option2;
     private String answer;
 
-    // constructor
     public Questions() {
-        question = "Which keyword creates an object?";
-        option1 = "new";
-        option2 = "class";
-        answer = "new";
+        // Constructor setting up the question, options, and correct answer
+        this.question = "Which keyword creates an object?";
+        this.option1 = "new";
+        this.option2 = "class";
+        this.answer = "new";
     }
 
     public String getQuestion() {
